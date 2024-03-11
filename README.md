@@ -1,2 +1,0 @@
-# houdini-turntable
-Turntable || Houdini
